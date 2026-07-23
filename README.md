@@ -78,4 +78,5 @@ LibVLCおよびLibVLCSharpはそれぞれのライセンスに従います。
 
 
 Contributions, bug reports and feature requests are welcome.
+<br>
 不具合報告や改善提案は Issues までお願いします。
