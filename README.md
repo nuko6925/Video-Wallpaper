@@ -35,6 +35,8 @@ LibVLCを同梱しています。
 
 インターネットへ接続できない環境向けです。
 
+最新版は [Releases](https://github.com/nuko6925/Video-Wallpaper/releases/latest) からダウンロードしてください。
+
 ## 使用ライブラリ
 
 - LibVLC
